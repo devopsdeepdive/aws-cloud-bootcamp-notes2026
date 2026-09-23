@@ -8,3 +8,18 @@ Availability Zones:
 https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
 
 Ec2: Elastic compute cloud
+23rd Sep
+volumes
+VPC
+Networking
+
+Ec2 Pricing Models:
+1.on-demand
+2.reserved instances
+1 year or 3 year
+3. spot instances 1. 1.1 2
+4 .savings plan
+
+
+Amazon EC2 T3 instances are low-cost, burstable general-purpose instance types designed for workloads with moderate baseline CPU utilization and temporary spikes.
+https://aws.amazon.com/ec2/instance-types/storage-optimized/?refid=011f28e3-1dfa-405d-894f-3e05b14038a6
