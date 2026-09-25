@@ -23,3 +23,13 @@ Ec2 Pricing Models:
 
 Amazon EC2 T3 instances are low-cost, burstable general-purpose instance types designed for workloads with moderate baseline CPU utilization and temporary spikes.
 https://aws.amazon.com/ec2/instance-types/storage-optimized/?refid=011f28e3-1dfa-405d-894f-3e05b14038a6
+
+
+24th September:
+Edge Location:
+AWS Edge Locations are small, strategically placed data centers located close to end-users around the world to deliver content faster and reduce delay
+Data Transfer Charges:
+AWS Tags:
+AWS tags are custom key-value metadata labels applied to Amazon Web Services resources to help with organization, cost tracking, security, and automation.
+https://aws.amazon.com/blogs/aws/new-aws-resource-tagging-api/
+"AWS Organizations:
