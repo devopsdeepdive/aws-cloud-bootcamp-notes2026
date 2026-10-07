@@ -1,0 +1,8 @@
+Block Storage: EBS(Elastic Block Storage)
+gp3 ,gp2, cold sorage, IOPS  Throughtput
+
+IOPS: input and outout opertions
+Throuput: 
+
+Presigned URL: 
+aws s3 presign  s3://mydemo-s3-bukcet/index.html --expires-in 300
